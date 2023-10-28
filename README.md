@@ -1,0 +1,1 @@
+In the Git + GitHub training, I learned about the purposes and functionalities of Git and GitHub, how to use them, what is the workflow and the main commands used.
